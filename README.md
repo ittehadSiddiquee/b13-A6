@@ -14,4 +14,4 @@ A digital tools buying website where you can browse and buy premium digital prod
 - Toast notifications for add to cart, remove, and checkout actions
 
 ## Live Site
-[Digitools](https://digitools-zabed.netlify.app/)
+[Digitools](https://digitoollas.netlify.app/)
